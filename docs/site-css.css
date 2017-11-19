@@ -1,0 +1,13 @@
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+}
+.display{
+  background-color: #f1f1f1;
+    display:flex;
+    text-align: center;
+}
+nav {
+    display: block;
+}
